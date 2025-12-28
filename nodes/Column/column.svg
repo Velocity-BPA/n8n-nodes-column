@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="8" fill="#1a1a2e"/>
+  <g fill="#4ade80">
+    <!-- Bank building icon -->
+    <rect x="20" y="70" width="60" height="8" rx="1"/>
+    <rect x="22" y="40" width="56" height="6" rx="1"/>
+    <!-- Columns -->
+    <rect x="26" y="46" width="8" height="24" rx="1"/>
+    <rect x="40" y="46" width="8" height="24" rx="1"/>
+    <rect x="52" y="46" width="8" height="24" rx="1"/>
+    <rect x="66" y="46" width="8" height="24" rx="1"/>
+    <!-- Roof -->
+    <path d="M50 20L75 40H25L50 20Z"/>
+  </g>
+</svg>
